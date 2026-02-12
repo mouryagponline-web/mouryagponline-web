@@ -36,14 +36,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mouryagponline-web&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouryagponline-web&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🔥 Streak Stats
 
