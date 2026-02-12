@@ -1,8 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mourya</h1>
-<h3 align="center">🚀 Data Analyst | AI Enthusiast | Engineering Student</h3>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Hi%20I'm%20Mourya&fontSize=55&fontColor=ffffff&animation=fadeIn" />
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Analyst;AI+Enthusiast;Engineering+Student;Power+BI+%7C+Python+%7C+SQL;Turning+Data+Into+Insights" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mouryagponline-web&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mouryagponline-web&label=Profile%20views&color=00f7ff&style=flat" />
 </p>
 
 ---
@@ -19,44 +24,32 @@
 
 ## 🚀 Tech Stack
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js" />
-</p>
-
-### 📊 Data & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,excel,powerbi" />
-</p>
-
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,postgres,excel,powerbi,git,github,vscode,linux" />
 </p>
 
 ---
 
-
-## 🔥 Streak Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouryagponline-web&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouryagponline-web&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-- 📊 Data Analysis Portfolio  
-- 🤖 Text Detection using K-Means  
-- 🌐 Django Movie Review Website  
-- 🦾 Hand-Elbow Rehabilitation Robot  
+🚀 **Data Analysis Portfolio**  
+🤖 **Text Detection using K-Means**  
+🌐 **Django Movie Review Website**  
+🦾 **Hand-Elbow Rehabilitation Robot**
 
 ---
 
 ## 🌐 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://instagram.com/86_mourya_">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
@@ -70,3 +63,5 @@
 ## ⚡ Fun Fact
 > I turn data into insights and ideas into reality 🚀
 
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" />
