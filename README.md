@@ -1,53 +1,43 @@
-<!-- ================= HEADER WAVE ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=240&section=header&text=Hi%20I'm%20Mourya&fontSize=60&fontColor=ffffff&animation=twinkling" />
+<!-- ================= HERO HEADER ================= -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=250&text=MOURYA%20GP&fontSize=72&fontColor=00F7FF&desc=Data%20Analyst%20|%20AI%20Enthusiast%20|%20Engineering%20Student&descAlignY=65&animation=fadeIn" />
 
-<!-- ================= TYPING TEXT ================= -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Data+Analyst;AI+Enthusiast;Engineering+Student;Power+BI+%7C+Python+%7C+SQL;Turning+Data+Into+Insights;Building+Smart+Solutions" />
-</p>
-
-<!-- ================= PROFILE VIEWS ================= -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=mouryagponline-web&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge" />
-</p>
-
-<!-- ================= GIF BANNER ================= -->
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Turning+Data+Into+Business+Value;Building+Intelligent+Systems;Power+BI+%7C+Python+%7C+SQL+%7C+Machine+Learning" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👤 Professional Summary
 
-- 🎓 Final Year Engineering Student  
-- 📊 Passionate about Data Analysis & Visualization  
-- 🤖 Interested in AI & Machine Learning  
-- 📈 Learning Power BI, Python & SQL  
-- 💬 Ask me about Data, Python, AI Tools  
+Results-driven **Data Analyst & AI Enthusiast** with strong foundations in data processing, visualization, and predictive modeling.  
+Passionate about transforming raw data into meaningful insights that support strategic decision-making.
 
 ---
 
-## ⚙️ Tech Stack (Animated)
+## 🧠 Core Competencies
+
+✔ Data Analysis & Visualization  
+✔ Power BI Dashboard Development  
+✔ Python for Data Science  
+✔ SQL & Database Management  
+✔ Machine Learning Basics  
+✔ Statistical Analysis  
+
+---
+
+## 🛠 Technology Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,postgres,excel,powerbi,git,github,vscode,linux&theme=dark" />
-</p>
-
-<p align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
+<img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,html,css,js,git,github,linux,vscode,excel,powerbi&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mouryagponline-web&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mouryagponline-web&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=mouryagponline-web&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mouryagponline-web&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -56,44 +46,38 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
 🔹 Data Analysis Portfolio  
 🔹 Text Detection using K-Means  
-🔹 Django Movie Review Website  
-🔹 Hand-Elbow Rehabilitation Robot  
+🔹 Django Fullstack Movie Review Website  
+🔹 Hand–Elbow Rehabilitation Robot  
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 Career Goals
+
+To become a **high-impact Data Analyst / Machine Learning Engineer** contributing to data-driven organizations and solving real-world problems.
+
+---
+
+## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mouryagponline-web&theme=tokyonight&no-frame=true&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=mouryagponline-web&theme=tokyonight&no-frame=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Professional Links
 
 <p align="center">
-<a href="https://instagram.com/86_mourya_">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-<a href="mailto:mouryagp.online@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-<a href="https://github.com/mouryagponline-web">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+<a href="https://github.com/mouryagponline-web"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://instagram.com/86_mourya_"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+<a href="mailto:mouryagp.online@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
-
-> I turn data into insights and ideas into reality 🚀  
-
----
-
-<!-- ================= FOOTER WAVE ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=130&section=footer&animation=twinkling" />
+<!-- ================= FOOTER ================= -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&animation=fadeIn" />
